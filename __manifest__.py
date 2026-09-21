@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of om_sale_external_id. See LICENSE file for full copyright and licensing details.
+# Part of sale_external_id. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Sale External ID Mapping',
     'version': '18.0.1.0.0',
