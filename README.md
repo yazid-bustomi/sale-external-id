@@ -34,7 +34,7 @@ Odoo instead of a spreadsheet.
 
 1. Copy this folder into your Odoo `addons` path:
    ```bash
-   cp -r om_sale_external_id /path/to/odoo/addons/
+   cp -r sale_external_id /path/to/odoo/addons/
    ```
 2. Restart the server and update the apps list
    (`Settings > Apps > Update Apps List`, with developer mode enabled).
@@ -55,7 +55,7 @@ Odoo instead of a spreadsheet.
 ## Project structure
 
 ```
-om_sale_external_id/
+sale_external_id/
 ├── models/
 │   └── id_external.py   # sale.id.external: buyer/product -> code mapping
 ├── views/                # list, form, search views + menu
